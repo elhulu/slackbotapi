@@ -1,6 +1,6 @@
 {
-  "name": "slackbotapi",
-  "version": "1.3.5",
+  "name": "betterslackbotapi",
+  "version": "1",
   "description": "a node.js API using Slack their RTM API",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xBytez/slackbotapi.git"
+    "url": "https://github.com/elhulu/slackbotapi.git"
   },
   "keywords": [
     "slack",
@@ -24,15 +24,16 @@
     "jethro": "*",
     "eventemitter3": "*"
   },
-  "author": "xBytez <me@xbytez.eu>",
+  "author": "elhulu <elhulu@yopmail.com>",
   "contributors": [
-    "Samuel Mills <spam.mills@hotmail.com>"
+    "Samuel Mills <spam.mills@hotmail.com>",
+    "xBytez <me@xbytez.eu>"
   ],
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/xBytez/slackbotapi/issues"
+    "url": "https://github.com/elhulu/slackbotapi/issues"
   },
-  "homepage": "https://github.com/xBytez/slackbotapi",
+  "homepage": "https://github.com/elhulu/slackbotapi",
   "directories": {
     "example": "examples"
   }
